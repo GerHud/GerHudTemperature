@@ -8,3 +8,6 @@ This is, how you can show your temperature on the Internet. First, you need a Ra
 For creating the temperature file, you run
 
 $ python3 gettemp.py
+
+Then the data.json file will be created. 
+Then you can move it to the htdocs folder or to a webserver.
