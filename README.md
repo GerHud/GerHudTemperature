@@ -5,6 +5,6 @@ This is, how you can show your temperature on the Internet. First, you need a Ra
 <img src="https://github.com/GerHud/GerHudTemperature/assets/113985447/f18b8b5d-ec12-428b-8e68-5794142caf19" height="500px">
 <!--![ZeroTemperature](https://github.com/GerHud/GerHudTemperature/assets/113985447/f18b8b5d-ec12-428b-8e68-5794142caf19)-->
 <hr>
-For create the temperature file, you run
+For creating the temperature file, you run
 
 $ python3 gettemp.py
